@@ -40,7 +40,7 @@
           
           <span class="search">
             <form action="#" method="GET">
-              <input type="search" placeholder="Search">
+              <input type="text" placeholder="Search">
             </form>
           </span>
 

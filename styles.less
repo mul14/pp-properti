@@ -68,19 +68,28 @@ a:link, a:visited {
     }
   }
 
-  .search form {
-    display: inline-block;
+  .search {
 
-    input[type="search"] {
-      padding: 4px 8px;
-      color: @color2;
-      border: 1px solid @color2;
-      background: @bg1;
+      form {
+        
+        display: inline-block;
 
-      -moz-appearance:    textfield;
-      -webkit-appearance: textfield;
-      appearance: textfield;
-      
+        input[type="text"] {
+          padding: 4px 8px;
+          color: @color2;
+          border: 1px solid @color2;
+          background-color: @bg1;
+
+          background-image: url('img/lup.png');
+          background-repeat: no-repeat;
+          background-position: center right;
+
+
+          -webkit-appearance: textfield;
+             -moz-appearance: textfield;
+                  appearance: textfield;
+        
+        }
     }
   }
 
