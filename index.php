@@ -127,17 +127,16 @@
     <div class="bla clearfix">
 
       <div class="container_12">
-        
-        
-        <div class="grid_8">
+                
+        <div class="grid_6 alpha omega">
 
           <h3>Project Highlight</h3>
 
-          <div class="grid_3">
+          <div class="grid_2 alpha">
             <img src="img/news.jpg" alt="">
           </div>
 
-          <div class="grid_4 alpha">
+          <div class="grid_4 omega">
             
             <time datetime="2014-06-02">July 02, 2014</time>
 
@@ -151,27 +150,47 @@
         </div>
 
 
-        <div class="grid_4">
+        <div class="grid_3 alpha omega">
 
           <h3>Latest News</h3>
 
-          <div class="grid_1">
-            <img src="img/newsmini.png" class="alpha" alt="">
-          </div>
-          <div class="grid_2">
-            
-            <time datetime="2014-06-02">July 02, 2014</time>
-            
-            <div class="description">
-              Emiten Konstruksi 
-              Target Laba Bersih 
-              Naik 20% di 2014
+          <div class="news clearfix">
+
+            <div class="news-item">
+              <div class="grid_1 alpha">
+                <img src="img/newsmini.png" class="alpha" alt="">
+              </div>
+              <div class="grid_2 alpha omega">
+                
+                <time datetime="2014-06-02">July 02, 2014</time>
+                
+                <div class="description">
+                  Emiten Konstruksi 
+                  Target Laba Bersih 
+                  Naik 20% di 2014
+                </div>
+              </div>
+
+              <div class="grid_1 alpha">
+                <img src="img/newsmini.png" class="alpha" alt="">
+              </div>
+              <div class="grid_2 alpha omega">
+                
+                <time datetime="2014-06-02">July 02, 2014</time>
+                
+                <div class="description">
+                  Emiten Konstruksi 
+                  Target Laba Bersih 
+                  Naik 20% di 2014
+                </div>
+              </div>
             </div>
+
           </div>
 
         </div>
 
-        <div class="grid_3">
+        <div class="grid_3 alpha omega">
 
           <h3>Investor Relations</h3>
 
@@ -197,7 +216,7 @@
 
     </div>
 
-    <div class="our-business">
+    <div class="item">
       
       <div class="container_12">
 
