@@ -69,17 +69,7 @@
 
     <div class="container_12 clearfix">
       <div class="grid_4">
-        <div class="clearfix">
-          <div class="box">
-            <i class="fa fa-eye"></i> VISI MISI PT PP PROPERTI
-          </div>
-          <div class="box">
-            <i class="fa fa-eye"></i> CORPORATE SOCIAL RESPONSIBILITY
-          </div>
-          <div class="box">
-            <i class="fa fa-eye"></i> The Chair Of The Board  Of Directors Says
-          </div>
-        </div>
+        <img src="img/asdccc_10.png" alt="">
       </div>
       <div class="grid_4">
         <img src="img/map.png" alt="">
@@ -93,68 +83,114 @@
     <div class="featured">
 
       <div class="container_12">
-        <div class="grid_2">GADING</div>
-        <div class="grid_2">GRAND</div>
-        <div class="grid_2">GRAND</div>
-        <div class="grid_2">KEMANG</div>
-        <div class="grid_2">IDJ</div>
-        <div class="grid_2">IDSAdas</div>
+        
+        <div class="grid_12">
+          <h3>Featured Properties</h3>
+        </div>
+
+        <div class="grid_2">
+          <a href="#">
+            <img src="img/featured-1.png" alt="">
+          </a>
+        </div>
+        <div class="grid_2">
+          <a href="#">
+            <img src="img/featured-1.png" alt="">
+          </a>
+        </div>
+        <div class="grid_2">
+          <a href="#">
+            <img src="img/featured-1.png" alt="">
+          </a>
+        </div>
+        <div class="grid_2">
+          <a href="#">
+            <img src="img/featured-1.png" alt="">
+          </a>
+        </div>
+        <div class="grid_2">
+          <a href="#">
+            <img src="img/featured-1.png" alt="">
+          </a>
+        </div>
+        <div class="grid_2">
+          <a href="#">
+            <img src="img/featured-1.png" alt="">
+          </a>
+        </div>
+        
+
       </div>
       
     </div>
 
-    <div class="bla">
+    <div class="bla clearfix">
 
-      <div class="container_16">
+      <div class="container_12">
         
-        <h3>Project Highlight</h3>
+        
+        <div class="grid_8">
 
-        <div class="grid_6">
+          <h3>Project Highlight</h3>
+
           <div class="grid_3">
-            <img src="img/news.jpg" class="alpha" alt="">
+            <img src="img/news.jpg" alt="">
           </div>
-          <div class="grid_3">
+
+          <div class="grid_4 alpha">
             
             <time datetime="2014-06-02">July 02, 2014</time>
 
-            Tower Ke 2 Pavilion Permata 
-            Apartment Mulai Dipasarkan PP 
-            Properti di Surabaya
+            <div class="description">
+              Tower Ke 2 Pavilion Permata 
+              Apartment Mulai Dipasarkan PP 
+              Properti di Surabaya
+            </div>
           </div>
-          <div class="clear"></div>
 
+        </div>
+
+
+        <div class="grid_4">
+
+          <h3>Latest News</h3>
+
+          <div class="grid_1">
+            <img src="img/newsmini.png" class="alpha" alt="">
+          </div>
           <div class="grid_2">
-            <img src="img/news.jpg" class="alpha" alt="">
-          </div>
-          <div class="grid_3">
             
             <time datetime="2014-06-02">July 02, 2014</time>
-
-            Tower Ke 2 Pavilion Permata 
-            Apartment Mulai Dipasarkan PP 
-            Properti di Surabaya
+            
+            <div class="description">
+              Emiten Konstruksi 
+              Target Laba Bersih 
+              Naik 20% di 2014
+            </div>
           </div>
 
         </div>
 
-        <div class="clear"></div>
+        <div class="grid_3">
 
-      </div>
+          <h3>Investor Relations</h3>
 
-      <h3>Latest News</h3>
+          <ul>
+            <li>Financial Information</li>
+            <li>Stock Information</li>
+            <li>Investor Contacts</li>
+            <li>Annual Report</li>
+          </ul>
 
-      <div class="grid_4">
+          <h3>Video</h3>
 
-        <div class="grid_2">
-          <img src="img/newsmini.png" class="alpha" alt="">
-        </div>
-        <div class="grid_2">
+          This Morning I had a close Interview 
+          with the founder and CEO of PT PP
+          Properti
+
+          <img src="img/video_29.png" alt="">
           
-          <time datetime="2014-06-02">July 02, 2014</time>
 
-          Tower Ke 2 Pavilion Permata 
-          Apartment Mulai Dipasarkan PP 
-          Properti di Surabaya
         </div>
 
       </div>
