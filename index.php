@@ -217,14 +217,14 @@
 
           <h3>Latest News</h3>
 
-          <div class="news clearfix">
+          <div class="news">
 
             <div class="news-item clearfix">
-              <div class="grid_1">
-                <!-- <img src="img/newsmini.png" class="alpha" alt=""> -->
 
+              <div class="image">
+                <img src="img/newsmini.png" class="alpha" alt="">
               </div>
-              <div class="grid_2">
+              <div class="content">
                 
                 <time datetime="2014-06-02">July 02, 2014</time>
                 
@@ -234,11 +234,77 @@
                   Naik 20% di 2014
                 </div>
               </div>
+            </div>
 
-              <div class="grid_1">
+            <div class="news-item clearfix">
+              <div class="image">
                 <img src="img/newsmini.png" class="alpha" alt="">
               </div>
-              <div class="grid_2">
+              <div class="content">
+                
+                <time datetime="2014-06-02">July 02, 2014</time>
+                
+                <div class="title">
+                  Emiten Konstruksi 
+                  Target Laba Bersih 
+                  Naik 20% di 2014
+                </div>
+              </div>
+            </div>
+
+            <div class="news-item clearfix">
+              <div class="image">
+                <img src="img/newsmini.png" class="alpha" alt="">
+              </div>
+              <div class="content">
+                
+                <time datetime="2014-06-02">July 02, 2014</time>
+                
+                <div class="title">
+                  Emiten Konstruksi 
+                  Target Laba Bersih 
+                  Naik 20% di 2014
+                </div>
+              </div>
+            </div>
+
+            <div class="news-item clearfix">
+              <div class="image">
+                <img src="img/newsmini.png" class="alpha" alt="">
+              </div>
+              <div class="content">
+                
+                <time datetime="2014-06-02">July 02, 2014</time>
+                
+                <div class="title">
+                  Emiten Konstruksi 
+                  Target Laba Bersih 
+                  Naik 20% di 2014
+                </div>
+              </div>
+            </div>
+
+            <div class="news-item clearfix">
+              <div class="image">
+                <img src="img/newsmini.png" class="alpha" alt="">
+              </div>
+              <div class="content">
+                
+                <time datetime="2014-06-02">July 02, 2014</time>
+                
+                <div class="title">
+                  Emiten Konstruksi 
+                  Target Laba Bersih 
+                  Naik 20% di 2014
+                </div>
+              </div>
+            </div>
+
+            <div class="news-item clearfix">
+              <div class="image">
+                <img src="img/newsmini.png" class="alpha" alt="">
+              </div>
+              <div class="content">
                 
                 <time datetime="2014-06-02">July 02, 2014</time>
                 

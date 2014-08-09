@@ -21,6 +21,10 @@ a:link, a:visited {
   color: @color2;  
 }
 
+body {
+  font-family: "Open Sans", Arial, sans;
+}
+
 .top {
   background: @bg1;
   border-bottom: 4px solid @color1;
@@ -143,6 +147,24 @@ a:link, a:visited {
 .news {
   // border: solid 4px red;
   margin-bottom: 20px;
+  font-size: 11px;
+  color: #333;
+
+  .news-item {
+
+    margin-bottom: 18px;
+
+    .image {
+      float: left;
+    }
+
+    .content {
+      line-height: 15px;
+      float: right;
+      width: 150px;
+      padding: 0;
+    }
+  }
 }
 
 .project-hightlight {
