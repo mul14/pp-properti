@@ -130,24 +130,87 @@
                 
         <div class="grid_6">
 
-          <h3>Project Highlight</h3>
+          <div class="highlight">
 
-          <div class="grid_2 alpha">
-            <img src="img/news.jpg" alt="">
-          </div>
+            <h3>Project Highlight</h3>
 
-          <div class="grid_4 omega">
-            
-            <time datetime="2014-06-02">July 02, 2014</time>
+            <div class="highlight-item clearfix">
 
-            <div class="description">
-              Tower Ke 2 Pavilion Permata 
-              Apartment Mulai Dipasarkan PP 
-              Properti di Surabaya
-            </div>
-          </div>
+              <div class="grid_2 alpha">
+                <img src="img/news.jpg" alt="">
+              </div>
 
-        </div>
+              <div class="grid_4 omega">
+                
+                <time datetime="2014-06-02">July 02, 2014</time>
+
+                <div class="title">
+                  Tower Ke 2 Pavilion Permata 
+                  Apartment Mulai Dipasarkan PP 
+                  Properti di Surabaya
+                </div>
+
+              </div>
+
+            </div><!-- /.highlight-item -->
+
+            <div class="highlight-item clearfix">
+
+              <div class="grid_2 alpha">
+                <img src="img/news.jpg" alt="">
+              </div>
+
+              <div class="grid_4 omega">
+                
+                <time datetime="2014-06-02">July 02, 2014</time>
+
+                <div class="title">
+                  PP Properti Garap Superblok Premium di Surabaya Barat
+                </div>
+                
+              </div>
+
+            </div><!-- /.highlight-item -->
+
+            <div class="highlight-item clearfix">
+
+              <div class="grid_2 alpha">
+                <img src="img/news.jpg" alt="">
+              </div>
+
+              <div class="grid_4 omega">
+                
+                <time datetime="2014-06-02">June 29, 2014</time>
+
+                <div class="title">
+                  Investor Gencar Pasarkan Properti di Surabaya
+                </div>
+                
+              </div>
+
+            </div><!-- /.highlight-item -->
+
+            <div class="highlight-item clearfix">
+
+              <div class="grid_2 alpha">
+                <img src="img/news.jpg" alt="">
+              </div>
+
+              <div class="grid_4 omega">
+                
+                <time datetime="2014-06-02">June 23, 2014</time>
+
+                <div class="title">
+                  PT PP Raih Investor Awards 2014
+                </div>
+                
+              </div>
+
+            </div><!-- /.highlight-item -->
+
+          </div><!-- /.highlight -->
+
+        </div><!-- /.grid_6 -->
 
 
         <div class="grid_3">
@@ -159,13 +222,13 @@
             <div class="news-item clearfix">
               <div class="grid_1">
                 <!-- <img src="img/newsmini.png" class="alpha" alt=""> -->
-                
+
               </div>
               <div class="grid_2">
                 
                 <time datetime="2014-06-02">July 02, 2014</time>
                 
-                <div class="description">
+                <div class="title">
                   Emiten Konstruksi 
                   Target Laba Bersih 
                   Naik 20% di 2014
@@ -179,7 +242,7 @@
                 
                 <time datetime="2014-06-02">July 02, 2014</time>
                 
-                <div class="description">
+                <div class="title">
                   Emiten Konstruksi 
                   Target Laba Bersih 
                   Naik 20% di 2014
