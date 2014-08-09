@@ -1,5 +1,6 @@
 @color1: #95d3ff;
 @color2: #0066b3;
+@color3: #b0ceea;
 @bg1: #def2ff;
 
 
@@ -26,6 +27,7 @@ a:link, a:visited {
 
   .nav-top {
 
+    color: @color2;
     text-align: right;
     padding: 10px 0;
 
@@ -33,6 +35,7 @@ a:link, a:visited {
       color: @color2;
       font-size: 11px;
       font-weight: bold;
+      padding: 4px;
     }
 
   }
@@ -54,16 +57,32 @@ a:link, a:visited {
         background: @color2;
         color: #fff;
       }
+
+      &:hover {
+        padding: 10px;
+        background: lighten(@color2, 5%);
+        color: #fff;
+      }
+
     }
   }
 
   .lang {
     a {
       font-weight: bold;
-      color: #b0ceea;
+      color: @color3;
+      padding: 0 5px;
 
       &.active {
         color: @color2;
+
+        &:hover {
+          color: darken(@color2, 10%);
+        }
+      }
+
+      &:hover {
+        color: darken(@color3, 30%);
       }
     }
   }

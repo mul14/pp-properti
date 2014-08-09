@@ -128,7 +128,7 @@
 
       <div class="container_12">
                 
-        <div class="grid_6 alpha omega">
+        <div class="grid_6">
 
           <h3>Project Highlight</h3>
 
@@ -150,17 +150,18 @@
         </div>
 
 
-        <div class="grid_3 alpha omega">
+        <div class="grid_3">
 
           <h3>Latest News</h3>
 
           <div class="news clearfix">
 
-            <div class="news-item">
-              <div class="grid_1 alpha">
-                <img src="img/newsmini.png" class="alpha" alt="">
+            <div class="news-item clearfix">
+              <div class="grid_1">
+                <!-- <img src="img/newsmini.png" class="alpha" alt=""> -->
+                
               </div>
-              <div class="grid_2 alpha omega">
+              <div class="grid_2">
                 
                 <time datetime="2014-06-02">July 02, 2014</time>
                 
@@ -171,10 +172,10 @@
                 </div>
               </div>
 
-              <div class="grid_1 alpha">
+              <div class="grid_1">
                 <img src="img/newsmini.png" class="alpha" alt="">
               </div>
-              <div class="grid_2 alpha omega">
+              <div class="grid_2">
                 
                 <time datetime="2014-06-02">July 02, 2014</time>
                 
@@ -190,7 +191,7 @@
 
         </div>
 
-        <div class="grid_3 alpha omega">
+        <div class="grid_3">
 
           <h3>Investor Relations</h3>
 
@@ -203,11 +204,13 @@
 
           <h3>Video</h3>
 
-          This Morning I had a close Interview 
-          with the founder and CEO of PT PP
-          Properti
+          <div class="description">
+            This Morning I had a close Interview 
+            with the founder and CEO of PT PP
+            Properti
+          </div>
 
-          <img src="img/video_29.png" alt="">
+          <img src="img/video_29.png" alt="" style="max-width:100%; height:auto;">
           
 
         </div>
