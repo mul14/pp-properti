@@ -92,37 +92,73 @@
           <h3>Featured Properties</h3>
         </div>
 
-        <div class="grid_2">
-          <a href="#">
-            <img src="img/featured-1.png" alt="">
-          </a>
+        <div class="slider-featured">
+          <div class="slider-group">
+            <div class="grid_2">
+              <a href="#">
+                <img src="img/featured-1.png" alt="">
+              </a>
+            </div>
+            <div class="grid_2">
+              <a href="#">
+                <img src="img/featured-1.png" alt="">
+              </a>
+            </div>
+            <div class="grid_2">
+              <a href="#">
+                <img src="img/featured-1.png" alt="">
+              </a>
+            </div>
+            <div class="grid_2">
+              <a href="#">
+                <img src="img/featured-1.png" alt="">
+              </a>
+            </div>
+            <div class="grid_2">
+              <a href="#">
+                <img src="img/featured-1.png" alt="">
+              </a>
+            </div>
+            <div class="grid_2">
+              <a href="#">
+                <img src="img/featured-1.png" alt="">
+              </a>
+            </div>
+          </div>
+
+          <div class="slider-group">
+            <div class="grid_2">
+              <a href="#">
+                <img src="img/featured-1.png" alt="">
+              </a>
+            </div>
+            <div class="grid_2">
+              <a href="#">
+                <img src="img/featured-1.png" alt="">
+              </a>
+            </div>
+            <div class="grid_2">
+              <a href="#">
+                <img src="img/featured-1.png" alt="">
+              </a>
+            </div>
+            <div class="grid_2">
+              <a href="#">
+                <img src="img/featured-1.png" alt="">
+              </a>
+            </div>
+            <div class="grid_2">
+              <a href="#">
+                <img src="img/featured-1.png" alt="">
+              </a>
+            </div>
+            <div class="grid_2">
+              <a href="#">
+                <img src="img/featured-1.png" alt="">
+              </a>
+            </div>
+          </div>
         </div>
-        <div class="grid_2">
-          <a href="#">
-            <img src="img/featured-1.png" alt="">
-          </a>
-        </div>
-        <div class="grid_2">
-          <a href="#">
-            <img src="img/featured-1.png" alt="">
-          </a>
-        </div>
-        <div class="grid_2">
-          <a href="#">
-            <img src="img/featured-1.png" alt="">
-          </a>
-        </div>
-        <div class="grid_2">
-          <a href="#">
-            <img src="img/featured-1.png" alt="">
-          </a>
-        </div>
-        <div class="grid_2">
-          <a href="#">
-            <img src="img/featured-1.png" alt="">
-          </a>
-        </div>
-        
 
       </div>
       
@@ -449,6 +485,11 @@
 $(document).ready(function(){
   $('.slider').bxSlider({
     pager: false
+  });
+
+  $('.slider-featured').bxSlider({
+    slideSelector: '.slider-group',
+    controls: false
   });
 });
 </script>
