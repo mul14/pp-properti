@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="css/960.css">
 
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+  <link href="css/jquery.bxslider.css" rel="stylesheet" />
 
   <link rel="stylesheet/less" type="text/css" href="styles.less" />
 
@@ -62,7 +63,10 @@
   </div>
 
   <div class="slider">
-    <img src="img/slide.jpg" alt="">
+    <div><img src="img/slide.jpg" alt=""></div>
+    <div><img src="img/slide.jpg" alt=""></div>
+    <div><img src="img/slide.jpg" alt=""></div>
+    <div><img src="img/slide.jpg" alt=""></div>
   </div>
 
   <div class="content">
@@ -434,6 +438,20 @@
   </footer>
 
 
-  <script src="//cdnjs.cloudflare.com/ajax/libs/less.js/1.7.3/less.min.js"></script>
+
+<script src="js/jquery.min.js"></script>
+
+<script src="js/jquery.bxslider.min.js"></script>
+
+<script src="js/less.min.js"></script>
+
+<script>
+$(document).ready(function(){
+  $('.slider').bxSlider({
+    pager: false
+  });
+});
+</script>
+
 </body>
 </html>
