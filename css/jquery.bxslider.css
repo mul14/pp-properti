@@ -100,30 +100,29 @@
 /* DIRECTION CONTROLS (NEXT / PREV) */
 
 .bx-wrapper .bx-prev {
-	left: 10px;
-	background: url(../img/controls.png) no-repeat 0 -32px;
+	left: 100px;
+	background: url(../img/arrow-l.png) no-repeat 50% 50%;
 }
 
 .bx-wrapper .bx-next {
-	right: 10px;
-	background: url(../img/controls.png) no-repeat -43px -32px;
+	right: 100.2px;
+	background: url(../img/arrow-r.png) no-repeat 50% 50%;
 }
 
 .bx-wrapper .bx-prev:hover {
-	background-position: 0 0;
+	
 }
 
 .bx-wrapper .bx-next:hover {
-	background-position: -43px 0;
+	
 }
 
 .bx-wrapper .bx-controls-direction a {
 	position: absolute;
 	top: 50%;
-	margin-top: -16px;
 	outline: 0;
 	width: 32px;
-	height: 32px;
+	height: 48px;
 	text-indent: -9999px;
 	z-index: 9999;
 }

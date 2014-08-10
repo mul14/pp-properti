@@ -63,10 +63,8 @@
   </div>
 
   <div class="slider">
-    <div><img src="img/slide.jpg" alt=""></div>
-    <div><img src="img/slide.jpg" alt=""></div>
-    <div><img src="img/slide.jpg" alt=""></div>
-    <div><img src="img/slide.jpg" alt=""></div>
+    <div><img src="img/slide-1.jpg" alt=""></div>
+    <div><img src="img/slide-2.jpg" alt=""></div>
   </div>
 
   <div class="content">
