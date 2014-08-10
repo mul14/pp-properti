@@ -449,11 +449,11 @@
       <div class="grid_3">
         <dl>
           <dt>Socials</dt>
-          <dd><a href="#">Facebook</a></dd>
-          <dd><a href="#">Twitter</a></dd>
-          <dd><a href="#">LinkedIn</a></dd>
-          <dd><a href="#">Google+</a></dd>
-          <dd><a href="#">Youtube</a></dd>
+          <dd><a href="#"> <img src="img/social-fb.png" alt=""> Facebook</a></dd>
+          <dd><a href="#"> <img src="img/social-tw.png" alt=""> Twitter</a></dd>
+          <dd><a href="#"> <img src="img/social-linkedin.png" alt=""> LinkedIn</a></dd>
+          <dd><a href="#"> <img src="img/social-gplus.png" alt=""> Google+</a></dd>
+          <dd><a href="#"> <img src="img/social-youtube.png" alt=""> Youtube</a></dd>
         </dl>
       </div>
 
