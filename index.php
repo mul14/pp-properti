@@ -67,11 +67,36 @@
     <div><img src="img/slide-2.jpg" alt=""></div>
   </div>
 
+  <div class="clearfix"></div>
+
   <div class="content">
 
     <div class="container_12 clearfix">
       <div class="grid_4">
-        <img src="img/asdccc_10.png" alt="">
+        
+        <a href="#">
+          <div class="box clearfix">
+            <img src="img/eye.png" alt="">
+            <div>
+              VISI MISI PT PP PROPERTI
+            </div>
+          </div>
+        </a>
+
+        <a href="#">
+          <div class="box clearfix">
+            <img src="img/umbrella.png" alt="">
+            <div>COORPORATE SOCIAL RESPONSIBILITY</div>
+          </div>
+        </a>
+
+        <a href="#">
+          <div class="box clearfix">
+            <img src="img/chat.png" alt="">
+            <div>THE CHAIR OF THE BOARD OF DIRECTORS SAYS</div>
+          </div>
+        </a>
+
       </div>
       <div class="grid_4">
         <img src="img/map.png" alt="">
