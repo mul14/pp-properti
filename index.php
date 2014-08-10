@@ -62,7 +62,7 @@
     </div>
   </div>
 
-  <div class="slider">
+  <div id="main-slider">
     <div><img src="img/slide-1.jpg" alt=""></div>
     <div><img src="img/slide-2.jpg" alt=""></div>
   </div>
@@ -115,71 +115,72 @@
           <h3>Featured Properties</h3>
         </div>
 
-        <div class="slider-featured">
-          <div class="slider-group clearfix">
-            <div class="grid_2">
-              <a href="#">
-                <img src="img/featured-1.png" alt="">
-              </a>
-            </div>
-            <div class="grid_2">
-              <a href="#">
-                <img src="img/featured-2.png" alt="">
-              </a>
-            </div>
-            <div class="grid_2">
-              <a href="#">
-                <img src="img/featured-3.png" alt="">
-              </a>
-            </div>
-            <div class="grid_2">
-              <a href="#">
-                <img src="img/featured-4.png" alt="">
-              </a>
-            </div>
-            <div class="grid_2">
-              <a href="#">
-                <img src="img/featured-5.png" alt="">
-              </a>
-            </div>
-            <div class="grid_2">
-              <a href="#">
-                <img src="img/featured-6.png" alt="">
-              </a>
-            </div>
-          </div>
+      </div>
 
-          <div class="slider-group clearfix">
-            <div class="grid_2">
-              <a href="#">
-                <img src="img/featured-1.png" alt="">
-              </a>
-            </div>
-            <div class="grid_2">
-              <a href="#">
-                <img src="img/featured-1.png" alt="">
-              </a>
-            </div>
-            <div class="grid_2">
-              <a href="#">
-                <img src="img/featured-1.png" alt="">
-              </a>
-            </div>
-            <div class="grid_2">
-              <a href="#">
-                <img src="img/featured-1.png" alt="">
-              </a>
-            </div>
-            <div class="grid_2">
-              <a href="#">
-                <img src="img/featured-1.png" alt="">
-              </a>
-            </div>
-            <div class="grid_2">
-              <a href="#">
-                <img src="img/featured-1.png" alt="">
-              </a>
-            </div>
+      <div id="featured-slider">
+        <div class="slider-group clearfix">
+          <div class="grid_2">
+            <a href="#">
+              <img src="img/featured-1.png" alt="">
+            </a>
+          </div>
+          <div class="grid_2">
+            <a href="#">
+              <img src="img/featured-2.png" alt="">
+            </a>
+          </div>
+          <div class="grid_2">
+            <a href="#">
+              <img src="img/featured-3.png" alt="">
+            </a>
+          </div>
+          <div class="grid_2">
+            <a href="#">
+              <img src="img/featured-4.png" alt="">
+            </a>
+          </div>
+          <div class="grid_2">
+            <a href="#">
+              <img src="img/featured-5.png" alt="">
+            </a>
+          </div>
+          <div class="grid_2">
+            <a href="#">
+              <img src="img/featured-6.png" alt="">
+            </a>
+          </div>
+        </div>
+
+        <div class="slider-group clearfix">
+          <div class="grid_2">
+            <a href="#">
+              <img src="img/featured-1.png" alt="">
+            </a>
+          </div>
+          <div class="grid_2">
+            <a href="#">
+              <img src="img/featured-1.png" alt="">
+            </a>
+          </div>
+          <div class="grid_2">
+            <a href="#">
+              <img src="img/featured-1.png" alt="">
+            </a>
+          </div>
+          <div class="grid_2">
+            <a href="#">
+              <img src="img/featured-1.png" alt="">
+            </a>
+          </div>
+          <div class="grid_2">
+            <a href="#">
+              <img src="img/featured-1.png" alt="">
+            </a>
+          </div>
+          <div class="grid_2">
+            <a href="#">
+              <img src="img/featured-1.png" alt="">
+            </a>
           </div>
         </div>
 
@@ -506,11 +507,11 @@
 
 <script>
 $(document).ready(function(){
-  $('.slider').bxSlider({
+  $('#main-slider').bxSlider({
     pager: false
   });
 
-  $('.slider-featured').bxSlider({
+  $('#featured-slider').bxSlider({
     slideSelector: '.slider-group',
     controls: false
   });
