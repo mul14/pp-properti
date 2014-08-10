@@ -16,7 +16,7 @@
 
 .bx-wrapper {
 	position: relative;
-	margin: 0 auto 60px;
+	/*margin: 0 auto 60px;*/
 	padding: 0;
 	*zoom: 1;
 }
@@ -31,6 +31,7 @@
 
 .bx-wrapper .bx-viewport {
 	left: -5px;
+	float: left;
 	background: #fff;
 	
 	/*fix other elements on the page moving (on Chrome)*/
@@ -43,8 +44,8 @@
 
 .bx-wrapper .bx-pager,
 .bx-wrapper .bx-controls-auto {
-	position: absolute;
-	bottom: -30px;
+	/*position: absolute;*/
+	/*bottom: -30px;*/
 	width: 100%;
 }
 
@@ -69,7 +70,7 @@
 	font-family: Arial;
 	font-weight: bold;
 	color: #666;
-	padding-top: 20px;
+	padding-top: 170px;
 }
 
 .bx-wrapper .bx-pager .bx-pager-item,

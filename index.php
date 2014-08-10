@@ -91,7 +91,7 @@
         </div>
 
         <div class="slider-featured">
-          <div class="slider-group">
+          <div class="slider-group clearfix">
             <div class="grid_2">
               <a href="#">
                 <img src="img/featured-1.png" alt="">
@@ -124,7 +124,7 @@
             </div>
           </div>
 
-          <div class="slider-group">
+          <div class="slider-group clearfix">
             <div class="grid_2">
               <a href="#">
                 <img src="img/featured-1.png" alt="">
