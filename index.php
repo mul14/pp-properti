@@ -101,27 +101,27 @@
             </div>
             <div class="grid_2">
               <a href="#">
-                <img src="img/featured-1.png" alt="">
+                <img src="img/featured-2.png" alt="">
               </a>
             </div>
             <div class="grid_2">
               <a href="#">
-                <img src="img/featured-1.png" alt="">
+                <img src="img/featured-3.png" alt="">
               </a>
             </div>
             <div class="grid_2">
               <a href="#">
-                <img src="img/featured-1.png" alt="">
+                <img src="img/featured-4.png" alt="">
               </a>
             </div>
             <div class="grid_2">
               <a href="#">
-                <img src="img/featured-1.png" alt="">
+                <img src="img/featured-5.png" alt="">
               </a>
             </div>
             <div class="grid_2">
               <a href="#">
-                <img src="img/featured-1.png" alt="">
+                <img src="img/featured-6.png" alt="">
               </a>
             </div>
           </div>
